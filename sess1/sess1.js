@@ -35,5 +35,17 @@ console.log($5);
 /* Interview Questions :-
     1. Why do we need javascript?
     2. What are variables? 
-    3. 
+    3. What are the types of variables?
+    4. What are the different data types in javascript?
+    5. What is the definition of primitive and non-primitive data types?
 */
+
+// console.log(a);
+
+{
+    var a = 15;
+    let b = 17;
+}
+
+// console.log(a);
+// console.log(b);
