@@ -39,13 +39,3 @@ console.log($5);
     4. What are the different data types in javascript?
     5. What is the definition of primitive and non-primitive data types?
 */
-
-// console.log(a);
-
-{
-    var a = 15;
-    let b = 17;
-}
-
-// console.log(a);
-// console.log(b);

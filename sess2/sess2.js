@@ -1,24 +1,35 @@
-// const age = 16;
-// if (age > 18) {
-//   console.log("Can drive");
+// // type coercion
+// console.log('false' == false);
+
+
+
+// //Activity1 if-else
+// let age = 18;
+// if(age > 18) {
+//   console.log("can drive");
 // } else {
-//   console.log("Cannot drive");
+//   console.log("cannot drive");
 // }
 
+
+
+// // Activity2 getSum
 // function getSum(num1, num2) {
 //   console.log(num1 + num2);
-//   return (console.log(num1**2));
 // }
 
-// // getSum(2, 3);
-// // console.log("Onkar");
-// // getSum(100, 250);
-// getSum(5, 10);
+// getSum(2, 3);
+// console.log("Onkar");
+// getSum(100, 250);
 
-function mydouble(num) {
-  return num * 2;
+
+
+
+// Activity3 Printing double
+function getDouble(num1) {
+  return num1 + num1;
 }
 
-const myDouble1 = mydouble(2);
-const myDouble2 = mydouble(5);
+let myDouble1 = getDouble(2);
+let myDouble2 = getDouble(5);
 console.log(myDouble1 + myDouble2);
