@@ -33,3 +33,10 @@ function getDouble(num1) {
 let myDouble1 = getDouble(2);
 let myDouble2 = getDouble(5);
 console.log(myDouble1 + myDouble2);
+
+
+
+/* Interview Questions 
+  1. What is the difference between == and === in JS?
+  2. What are functions? Types of functions?
+*/

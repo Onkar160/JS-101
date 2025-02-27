@@ -31,7 +31,16 @@ Ans:- Primitive - Primitive data types holds one value at a time, they are immut
       
       Non-Primitive - Non-primitive data types are the collection of primitive data types and these are mutable in nature because it allows in-place operations so we can alter it's value without creation of new result
 
+<br /><br /><br /><br />
+
+-----------------------Session 2-----------------------------------
+1. What is the difference between == and === in JS?<br />
+Ans:- The difference between the equality (==) and strict equality (===) operator is that the equality operator (==) performs the type coercion whenever we use it to compare 2 values, where are strict equality (===) operator does not performs type coercion whenever we compare 2 values. Generally in real world it is preferred to use strict equality (===) operator to avoid issues.
 <br /><br />
+
+2. What are functions? Types of functions?<br />
+Ans:- A function is a block of code that is designed to perform some task. We can invoke or call this function to use it as many times as we want to once declared. It allows us to reuse our code as many times as we want. There are 2 types of functions:- <br />1. Parameterised :- Function which accepts parameter <br />
+                       2. Non-Parameterised :- Function which don't accept any parameter.
 
 
 
